@@ -1,1 +1,2 @@
-+print("merabadunya);
++print("merabadunya");
++print("nasılsın");
